@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sydykov2021
 - 👀 I’m interested in Front end
-- 🌱 I’m currently learning Vue ks
+- 🌱 I’m currently learning Vue js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me brizanovtimur@gmail.com
 
