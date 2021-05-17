@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sydykov2021
 - 👀 I’m interested in Front end
 - 🌱 I’m currently learning Vue js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me brizanovtimur@gmail.com
 
 <!---
